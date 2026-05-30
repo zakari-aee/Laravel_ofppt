@@ -1,4 +1,4 @@
-# 🏫 Laravel School Management — Complete Course
+# Laravel School Management — Complete Course
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
